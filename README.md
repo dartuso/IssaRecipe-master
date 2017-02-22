@@ -24,13 +24,13 @@ This is a website and a app for a simple recipe finder based on ingredient selec
 
 This project was created for the CalgaryHacks 2017 Hackathon.
 We decided to make Issa Recipe because of the frustration of having lots of ingredients at home. 
-by writting the ingredients you already have at home and being lazy to not even bother looking for what to do with them. Issa Recipe brings you the recipes
+by writing the ingredients you already have at home and being lazy to not even bother looking for what to do with them. Issa Recipe brings you the recipes
 In addition to this we wanted to build a project that was visual, collaborative, self imposed and useful.
 
 
 ## Installation/Usage
 
-The app can be imported into android studio from the issaRecipe-master/app folder, the website and simply be open from the issarecipe/website folder.
+The app can be imported into android studio from the issaRecipe-master/app folder, the website can be opened from the issarecipe/website folder.
 The website is currently hosted using Microsoft Azure, on the domain http://issarecipe.azurewebsites.net/
 
 
@@ -56,6 +56,3 @@ The website is currently hosted using Microsoft Azure, on the domain http://issa
 * Red Rave is a bad thing
 * Sleep is absolutely required
 
-#### License
-
-MIT License
