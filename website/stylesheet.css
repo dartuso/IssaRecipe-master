@@ -1,0 +1,22 @@
+body {
+    background-image: url("background.jpg");
+    font-family: 'Barrio', cursive;
+}
+
+.title {
+    margin-top: 100px;
+    <<<<<<< HEAD
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+.search {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.submit {
+    margin-top: 20px;
+}
